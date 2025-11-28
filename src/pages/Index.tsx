@@ -33,16 +33,16 @@ const Index = () => {
   };
 
   const passLevels = [
-    { level: 1, title: 'Новичок', reward: '5000$', icon: 'Star' },
-    { level: 2, title: 'Водитель', reward: '10000$', icon: 'Car' },
-    { level: 3, title: 'Бизнесмен', reward: '25000$', icon: 'Briefcase' },
-    { level: 4, title: 'Авторитет', reward: '50000$', icon: 'Crown' },
-    { level: 5, title: 'Босс', reward: '100000$', icon: 'Gem' },
-    { level: 6, title: 'Магнат', reward: '200000$', icon: 'TrendingUp' },
-    { level: 7, title: 'Легенда', reward: '500000$', icon: 'Trophy' },
-    { level: 8, title: 'Легенда+', reward: '1000000$', icon: 'Award' },
-    { level: 9, title: 'Элита', reward: '2000000$', icon: 'Zap' },
-    { level: 10, title: 'Император', reward: '5000000$', icon: 'Shield' }
+    { level: 1, title: 'Новичок', reward: '200₽', icon: 'Star' },
+    { level: 2, title: 'Водитель', reward: '1000₽', icon: 'Car' },
+    { level: 3, title: 'Бизнесмен', reward: '1500₽', icon: 'Briefcase' },
+    { level: 4, title: 'Авторитет', reward: '4000₽', icon: 'Crown' },
+    { level: 5, title: 'Босс', reward: '4800₽', icon: 'Gem' },
+    { level: 6, title: 'Магнат', reward: '7000₽', icon: 'TrendingUp' },
+    { level: 7, title: 'Легенда', reward: '15000₽', icon: 'Trophy' },
+    { level: 8, title: 'Легенда+', reward: '20000₽', icon: 'Award' },
+    { level: 9, title: 'Элита', reward: '25000₽', icon: 'Zap' },
+    { level: 10, title: 'Император', reward: '30000₽', icon: 'Shield' }
   ];
 
   const gameImages = [
